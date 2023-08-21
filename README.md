@@ -13,3 +13,4 @@ Key aspects of this repository include:
 3. **Performance Evaluation:** Code to measure execution time for both traditional and Strassen multiplication methods.
 4. **Multi-Processing and Virtual Machines:** Utilizing multi-processing and VMs to parallelize computation and enhance speed.
 
+![Results of Multi-Processing](https://github.com/MuhammadSaqib001/Optimized-Matrix-Multiplication-using-Multi-Processing/blob/main/results.png)
